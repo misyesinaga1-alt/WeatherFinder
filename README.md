@@ -32,11 +32,11 @@ Aplikasi cuaca mobile berbasis React Native dan Expo yang menggunakan Open-Meteo
 
 ### Loading State
 
-![Loading State](dua.jpeg)
+![Loading State](tiga.jpeg)
 
 ### Success State
 
-![Success State](tiga.jpeg)
+![Success State](dua.jpeg)
 
 ### Error State
 
