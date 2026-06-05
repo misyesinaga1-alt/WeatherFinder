@@ -119,4 +119,4 @@ https://github.com/misyesinaga1-alt/WeatherFinder
 
 ## 🔗 Expo Snack
 
-(Tambahkan link Expo Snack di sini setelah dibuat)
+(https://snack.expo.dev/@misyesinaga/3d4033)
